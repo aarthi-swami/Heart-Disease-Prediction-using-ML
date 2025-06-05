@@ -20,9 +20,11 @@ target: 1 = Defective Heart, 0 = Healthy Heart
 * Loaded data using pandas
 * Explored data shape, info, null values, stats
 
+
 2. Preprocessing
 * Split dataset into features (X) and target (Y)
 * Train-Test split using train_test_split
+
 
 3. Model Training
 * Trained three classifiers:
@@ -34,6 +36,7 @@ target: 1 = Defective Heart, 0 = Healthy Heart
 * Accuracy on training and test data
 * Classification reports and confusion matrices
 * Seaborn heatmap visualization
+
 
 5. Prediction
 * Built a function to predict heart disease for new input data
