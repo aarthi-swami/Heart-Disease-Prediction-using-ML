@@ -3,7 +3,9 @@ This project uses machine learning models to predict whether a person has heart 
 
 ## Dataset
 The dataset used is heart.csv, which contains 14 attributes including:
+
 Age, Sex, Chest Pain Type, Resting BP, Cholesterol, Fasting Blood Sugar, etc.
+
 target: 1 = Defective Heart, 0 = Healthy Heart
 
 ## Features
